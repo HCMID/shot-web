@@ -9,7 +9,7 @@ From a julia terminal, activate the local directory (`]activate`) and build the 
 
 ```
 using Franklin
-optimize( prepath="/path/to/my/franklin/site/", minify = false )
+optimize( prepath="/Library/WebServer/Documents/", minify = false )
 ```
 
 Then from a shell in the `src` directory:
